@@ -27,6 +27,6 @@ Everything listed here is available under [Unlicense](https://unlicense.org/)
 
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/0TKcFId3)
 [![Repos Badge](https://badges.pufler.dev/repos/skacem)](https://badges.pufler.dev)
-
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
                             
