@@ -19,36 +19,7 @@ I'm Skander, a business consultant and software engineer, currently learning man
  - Synthetic data generation, agent-based simulators, forecasting, and asset management using machine learning; with
  - Quantitative funds, multinational investment banks, financial market authorities, the office of national statistics, and other british government departments.
 -->
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/21zjetjr6mydgaaw2cpcvyovi)
-
-  </td>
-  <td width="50%">  
- 
-<!-- feed start -->
-<!--
-- Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
-- Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
-- Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
-- -->
-<!-- feed end -->
-
-  </td>
-  </table>
   
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-  
-  </td>
-  <td width="50%">
-  
-
-  </td>
-  </table>
   
 ### Packages
 
