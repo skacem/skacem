@@ -20,9 +20,6 @@ I'm Skander, a business consultant and software engineer, currently learning man
  - Quantitative funds, multinational investment banks, financial market authorities, the office of national statistics, and other british government departments.
 -->
   
-  
-### Packages
-
 Everything listed here is available under [Unlicense](https://unlicense.org/)
 
 <!--- - 👁️ Advisor at ... --->
