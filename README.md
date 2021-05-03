@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Skander, a business consultant and software engineer, currently learning manchine learning and its application in business analytics. 
+I'm Skander, a management consultant and software engineer based in Berlin, Germany, currently exploring machine learning techniques, such as cluster detection, time series evaluation and forecasting, survival analysis or opinion mining and their application in management decision making and this beyond large enterprises to include smaller businesses and retailers.
+
 <!--
  - Synthetic data generation, agent-based simulators, forecasting, and asset management using machine learning; with
  - Quantitative funds, multinational investment banks, financial market authorities, the office of national statistics, and other british government departments.
