@@ -18,8 +18,8 @@ I'm Skander, a management consultant and software engineer based in Berlin, Germ
 
 In today's business world, where every additional percent of efficiency gain can be a competitive advantage, small businesses and retailers have no choice but to adopt machine learning and AI across the full spectrum of their business functions, including inventory management, product development, operations, sales, customer service and marketing, in order to avoid being outpaced by their digital competitors. 
 
-Contrary to popular belief, you don't need millions of investment to start incorporating machine learning and AI into your business. You can efficiently leverage the power of AI if you start on a smaller scale and rely on Python pre-built modules. The sooner you start, the better.  
-And as W. Edwards Deming put it, “Without data, you’re just another person with an opinion.”
+Contrary to popular belief, you don't need millions of investment to start incorporating machine learning and AI into your business. You can efficiently leverage the power of AI if you start on a smaller scale and rely on Python pre-built modules - given you have enough structured data.  
+As W. Edwards Deming said, “Without data, you’re just another person with an opinion.”
 
 <!--
  - Synthetic data generation, agent-based simulators, forecasting, and asset management using machine learning; with
