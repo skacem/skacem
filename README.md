@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Skander, a management consultant and software engineer based in Berlin, Germany, currently exploring machine learning techniques, such as cluster detection, time series evaluation and forecasting, survival analysis, opinion mining or  customer service chatbots and their application in operations and management decision making beyond large enterprises to include smaller businesses and retailers.  
+I'm Skander, a management consultant and software engineer based in Berlin, Germany, currently exploring machine learning techniques, such as cluster detection, time series modeling and forecasting, survival analysis, opinion mining and  customer service chatbots and their application in operations and management decision making beyond large enterprises to include smaller businesses and retailers.  
 
 In today's business world, where every additional percent of efficiency gain can be a competitive advantage, small businesses and retailers have no choice but to adopt machine learning and AI across the full spectrum of their business functions, including inventory management, product development, operations, sales, customer service and marketing, in order to avoid being outpaced by their digital competitors. 
 
