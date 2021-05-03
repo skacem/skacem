@@ -14,18 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Skander, a management consultant and software engineer based in Berlin, Germany, currently exploring machine learning techniques, such as cluster detection, time series modeling and forecasting, survival analysis, opinion mining and  customer service chatbots and their application in operations and management decision making beyond large enterprises to include smaller businesses and retailers.  
-
-In today's business world, where every additional percent of efficiency gain can be a competitive advantage, small businesses and retailers have no choice but to adopt machine learning and AI across the full spectrum of their business functions, including inventory management, product development, operations, sales, customer service and marketing, in order to avoid being outpaced by their digital competitors. 
-
-Contrary to popular belief, you don't need millions of investment to start incorporating machine learning and AI into your business. You can efficiently leverage the power of AI if you start on a smaller scale and rely on Python pre-built modules - given you have enough structured data.  
-As W. Edwards Deming said, “Without data, you’re just another person with an opinion.”
+I'm Skander, a management consultant and software engineer based in Berlin, Germany, currently exploring machine learning techniques and their application in operations and management decision making.
 
 <!--
+beyond large enterprises to include smaller businesses and retailers.  
+In today's business world, where every additional percent of efficiency gain can be a competitive advantage, small businesses and retailers have no choice but to adopt machine learning and AI across the full spectrum of their business functions, including inventory management, product development, operations, sales, customer service and marketing, in order to avoid being outpaced by their digital competitors. 
+Contrary to popular belief, you don't need millions of investment to start incorporating machine learning and AI into your business. You can efficiently leverage the power of AI if you start on a smaller scale and rely on Python pre-built modules - given you have enough structured data.  
+As W. Edwards Deming said, “Without data, you’re just another person with an opinion.”
  - Synthetic data generation, agent-based simulators, forecasting, and asset management using machine learning; with
  - Quantitative funds, multinational investment banks, financial market authorities, the office of national statistics, and other british government departments.
 -->
   
+
 Everything listed here is available under [Unlicense](https://unlicense.org/)
 
 <!--- - 👁️ Advisor at ... --->
