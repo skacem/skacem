@@ -13,8 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [@skanderkacem](https://twitter.com/skanderkacem)
 -->
-I'm Skander, a management consultant and software engineer based in Berlin, Germany, currently exploring machine learning techniques and their application in operations and management decision making.
+I'm Skander, a management consultant and software engineer based in Berlin.
+- 🔭  currently exploring AI techniques and their application in operations and management decision making
+
+In today's business world, where every additional percent of efficiency gain can be a competitive advantage, small businesses and e-commerce retailers have no choice but to adopt machine learning and AI across the full spectrum of their business functions.  
+Contrary to popular belief, you don't need to invest millions to incorporate machine learning into your business. You can efficiently leverage its power  by starting on a rather granular scale, using pre-built modules, then gradually extending your AI library - given you have the right data mining architecture.
+
+
 
 <!--
 beyond large enterprises to include smaller businesses and retailers.  
@@ -24,12 +33,12 @@ As W. Edwards Deming said, “Without data, you’re just another person with an
  - Synthetic data generation, agent-based simulators, forecasting, and asset management using machine learning; with
  - Quantitative funds, multinational investment banks, financial market authorities, the office of national statistics, and other british government departments.
 -->
-  
+
 <!--- - 👁️ Advisor at ... --->
 
 
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/0TKcFId3)
-[![Repos Badge](https://badges.pufler.dev/repos/skacem)]
+[![Repos Badge](https://badges.pufler.dev/repos/skacem)](https://badges.pufler.dev/repos/skacem)
 [![Visits Badge](https://badges.pufler.dev/visits/skacem/skacem)](https://badges.pufler.dev)
 
                             
