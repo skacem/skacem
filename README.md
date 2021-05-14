@@ -25,14 +25,11 @@ As W. Edwards Deming said, “Without data, you’re just another person with an
  - Quantitative funds, multinational investment banks, financial market authorities, the office of national statistics, and other british government departments.
 -->
   
-
-Everything listed here is available under [Unlicense](https://unlicense.org/)
-
 <!--- - 👁️ Advisor at ... --->
 
 
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/0TKcFId3)
-[![Repos Badge](https://badges.pufler.dev/repos/skacem)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/skacem)]
 [![Visits Badge](https://badges.pufler.dev/visits/skacem/skacem)](https://badges.pufler.dev)
 
                             
