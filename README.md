@@ -1,4 +1,4 @@
-### Hi there 👋
+# :man_technologist: Hi there 👋
 
 <!--
 **skacem/skacem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
