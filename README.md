@@ -38,7 +38,6 @@ I'm Skander, a management consultant and software engineer based in Berlin.
 
 <h3 align="left"> Connect with Me</h3>
 <a href = 'https://www.twitter.com/skanderkacem'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"></a> 
-<a href = 'https://www.twitter.com/skanderkacem'> <img width = '38px' align= 'center' src="https://github.githubassets.com/pinned-octocat.svg" color="#FFFFFF"></a> 
 <a href = 'https://www.linkedin.com/in/skander-kacem'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/></a> 
 <!--
 In today's business world, where every additional percent of efficiency gain can be a competitive advantage, small businesses and e-commerce retailers have no choice but to adopt machine learning and AI across the full spectrum of their business functions.  
