@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@skanderkacem](https://twitter.com/skanderkacem)
 -->
 I'm Skander, a management consultant and software engineer based in Berlin. I'm currently working for an e-commerce company, where I’m building machine learning systems to optimize their inventory management as well as their customer service and marketing.
-- 🔭  I'm interested in AI techniques and their implementation in business operations as well as in management decision making
+- 🔭  I'm interested in AI techniques and their implementation in business operations and in management decision making
 - 🌱  learning TypeScript, Julia, Kubernetes and Flask
 - 👯  I’m looking to collaborate on anything awesome!
 - 💬  Let's talk about: the Pythonic Way,  Synergies Valuation in M&A or AI and the Future of Management
