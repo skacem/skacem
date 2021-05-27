@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@skanderkacem](https://twitter.com/skanderkacem)
 -->
-I'm Skander, a management consultant and software engineer based in Berlin.
+I'm Skander, a management consultant and software engineer based in Berlin, Currently working for an e-commerce company, where I’m building machine learning systems to optimize their inventory management as well as their customer service and marketing.
 - 🔭  I'm interested in AI techniques and their implementation in business operations as well as in management decision making
-- 🌱 currently learning TypeScript, Julia, Kubernetes and Flask
-- 👯 I’m looking to collaborate on anything awesome!
-- 💬 Let's talk about: the Pythonic Way,  Synergies Valuation in M&A or AI and the Future of Management
--  📫 How to reach me: [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/0TKcFId3)
+- 🌱  learning TypeScript, Julia, Kubernetes and Flask
+- 👯  I’m looking to collaborate on anything awesome!
+- 💬  Let's talk about: the Pythonic Way,  Synergies Valuation in M&A or AI and the Future of Management
+- 📫  How to reach me: [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/0TKcFId3)
 
 
 <h3 align="left"> Skills</h3>
