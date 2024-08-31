@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@skanderkacem](https://twitter.com/skanderkacem)
 -->
-I'm Skander, a management consultant and software engineer based in ~Berlin~ Kinshasa. I'm currently working for an e-commerce company, where I’m building machine learning systems to optimize their inventory management as well as their customer service and marketing.
-- 🔭  I'm interested in AI techniques and their implementation in business operations and in management decision making
-- 🌱  learning TypeScript, Julia, Kubernetes and Flask
-- 👯  I’m looking to collaborate on anything awesome!
-- 💬  Let's talk about: the Pythonic Way,  Synergies Valuation in M&A or AI and the Future of Management
+From the world of programming to the vibrant art scene of DR. Congo, I’ve navigated diverse paths but remain deeply rooted in technology. With a diploma in Electrical Engineering —grounded in physics and mathematics— and an MBA in General Management,  I now dedicate my time to promoting African artists through [kitokongo.art](kitokongo.art) and curating unique artworks for sale on [kitokongo.store](kitokongo.store). Yet, the engineer in me never rests —I'm still captivated by the ever-evolving landscapes of AI, programming, and cutting-edge technology.
+
+- 🌍 Connecting Cultures: Bridging the gap between art and technology by elevating African art on a global scale.
+- 🤖 Tech at Heart: Exploring AI, data analysis, and digital transformation.
+- 🖼️ Visual Storytelling: Crafting narratives through data and art.
+- 🌱 Lifelong Learner: Always keen to learn new languages and tools —Rust, Go, and FastAPI  are on my radar.
+- 💬 Let's Chat: Whether it's about the fusion of art and tech, AI's role in business, or anything that sparks creativity, I'm here for it!
 - 📫  How to reach me: [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/0TKcFId3)
 
 
@@ -31,7 +33,6 @@ I'm Skander, a management consultant and software engineer based in ~Berlin~ Kin
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> 
  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/matlab/matlab-original.svg" alt="matlab" width="30" height="30"/> </a>
- <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a> 
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> 
 </p>
