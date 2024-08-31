@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@skanderkacem](https://twitter.com/skanderkacem)
 -->
-From the world of programming to the vibrant art scene of DR. Congo, I’ve navigated diverse paths but remain deeply rooted in technology. With a diploma in Electrical Engineering —grounded in physics and mathematics— and an MBA in General Management,  I now dedicate my time to promoting African artists through [kitokongo.art](kitokongo.art) and curating unique artworks for sale on [kitokongo.store](kitokongo.store). Yet, the engineer in me never rests —I'm still captivated by the ever-evolving landscapes of AI, programming, and cutting-edge technology.
+From the world of programming to the vibrant art scene of DR. Congo, I’ve navigated diverse paths but remain deeply rooted in technology. With a diploma in Electrical Engineering and an MBA in General Management,  I now dedicate my time to promoting African artists through [kitokongo.art](kitokongo.art) and curating unique artworks for sale on [kitokongo.store](kitokongo.store). Yet, the engineer in me never rests —I'm still captivated by the ever-evolving landscapes of AI, programming, and cutting-edge technology.
 
 - 🌍 Connecting Cultures: Bridging the gap between art and technology by elevating African art on a global scale.
 - 🤖 Tech at Heart: Exploring AI, data analysis, and digital transformation.
